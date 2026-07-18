@@ -53,7 +53,7 @@ employee-attrition-prediction/
 How to Run
 
 Clone the Repository
-git clone https://github.com/YOUR-USERNAME/employee-attrition-prediction.git
+git clone https://github.com/ayushighorpade2807/employee-attrition-prediction.git
    cd employee-attrition-prediction
 
 Install Dependencies
